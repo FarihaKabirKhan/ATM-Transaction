@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\bin\Debug\ATMTrascation.exe.config
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\bin\Debug\ATMTrascation.exe
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\bin\Debug\ATMTrascation.pdb
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.exe
+C:\Users\DELL\Desktop\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.pdb
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\bin\Debug\ATMTrascation.exe.config
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\bin\Debug\ATMTrascation.exe
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\bin\Debug\ATMTrascation.pdb
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.csproj.AssemblyReference.cache
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.csproj.CoreCompileInputs.cache
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.exe
+D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.pdb
