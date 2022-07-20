@@ -14,9 +14,12 @@ namespace ATMTrascation
             int choise, pin = 0, x = 0;
             Console.WriteLine("Enter Your Pin Number");
             pin = int.Parse(Console.ReadLine());
-            while (true)
+            abc();
+            void abc()
             {
-                Console.WriteLine("******Welcome to ATM service********\n");
+                if (pin == 123)
+                {
+                    Console.WriteLine("******Welcome to ATM service********\n");
                 Console.WriteLine("1. Check Balance\n");
                 Console.WriteLine("2. Withdraw Cash\n");
                 Console.WriteLine("3. Deposit Cash\n");
@@ -24,7 +27,7 @@ namespace ATMTrascation
                 Console.WriteLine("***************************\n\n");
                 Console.WriteLine("Enter your Choice:");
                 choise = int.Parse(Console.ReadLine());
-
+                            
                 switch (choise)
                 {
                     case 1:
@@ -55,11 +58,48 @@ namespace ATMTrascation
                         Console.WriteLine("your balance is {0}", amount);
                         break;
                     case 4:
+                            pin = 0;
                         Console.WriteLine("\n Thank you using ATM");
-                        break;
+                            Console.WriteLine("----------------0-----------------");
+                            Console.WriteLine();
+                            Console.WriteLine();
+
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine("Use Again! Enter Your Pin");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            pin = int.Parse(Console.ReadLine());
+                            abc();
+                            
+                            break;
+                        default:
+                            Console.WriteLine("\n Please Enter Valid Entry");
+                            break;
+                    }
+                }
+                else
+
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("\n\n Wrong Pin!");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("----------------0-----------------");
+                    Console.WriteLine();
+                    Console.WriteLine();
+
                 }
             }
+
+            Console.WriteLine("Try Again Your Pin Number");
+            pin = int.Parse(Console.ReadLine());
+            abc();
+            Console.WriteLine();
+            
             Console.WriteLine("\n\n Thanks for using our ATM service");
+            Console.WriteLine("----------------0-----------------");
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.ReadKey();
         }
      
     }

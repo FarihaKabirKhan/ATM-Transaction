@@ -12,3 +12,11 @@ D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.cspro
 D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.csproj.CoreCompileInputs.cache
 D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.exe
 D:\IDB\c#\25.03.2021-Evidence\Exam-2\ATMTrascation\obj\Debug\ATMTrascation.pdb
+D:\Fariha\New folder\obj\Debug\ATMTrascation.csproj.AssemblyReference.cache
+D:\Fariha\New folder\obj\Debug\ATMTrascation.csproj.SuggestedBindingRedirects.cache
+D:\Fariha\New folder\obj\Debug\ATMTrascation.csproj.CoreCompileInputs.cache
+D:\Fariha\New folder\obj\Debug\ATMTrascation.exe
+D:\Fariha\New folder\obj\Debug\ATMTrascation.pdb
+D:\Fariha\New folder\bin\Debug\ATMTrascation.exe.config
+D:\Fariha\New folder\bin\Debug\ATMTrascation.exe
+D:\Fariha\New folder\bin\Debug\ATMTrascation.pdb
